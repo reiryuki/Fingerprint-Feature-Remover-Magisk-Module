@@ -24,10 +24,7 @@ else
 fi
 ui_print " "
 
-
-
-
-
-
+# cleaning
+rm -rf $MODPATH/image
 
 

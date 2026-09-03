@@ -8,11 +8,14 @@ Removes android.hardware.fingerprint feature systemlessly.
 v0.1
 - Initial release
 
+v0.2
+- Resets module folders/files permissions at post-fs-data
+
 ## Requirements
 Magisk or Kitsune Mask or KernelSU or Apatch installed
 
 ## Installation Guide & Download Link
-- Install this module https://bicolink.com/NCFj via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
+- Install this module https://github.com/reiryuki/Fingerprint-Feature-Remover-Magisk-Module via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - Reboot
 
 ## Download Tutorial
@@ -24,7 +27,7 @@ https://t.me/ryukinotes/97
 
 ## Credits and Contributors
 - https://t.me/androidryukimodsdiscussions
-- You can contribute ideas about this Magisk Module here: https://t.me/androidappsportdevelopment
+- https://t.me/androidappsportdevelopment
 
 ## Sponsors
 https://t.me/ryukinotes/25
